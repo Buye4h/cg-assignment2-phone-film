@@ -22,6 +22,9 @@ Tools: Use the Java 2D API exclusively to draw and animate the elements.
 ![cg-time](https://github.com/Buye4h/cg-assignment2/assets/73097117/db32f97e-e1d0-45ee-98f8-1f3059630449)
 
 
+😍 Thank you, our CS friends, for optimizing efficiency!
+
+
 ## Reference
 (Used for educational purposes only)
 
