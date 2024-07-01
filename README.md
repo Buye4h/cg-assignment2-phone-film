@@ -3,8 +3,7 @@
 - Objective:
 The objective of this assignment is to introduce students to the fundamentals of animation using the Java 2D API. Students will work in pairs to create an animation that incorporates circles and ellipses.
 
-- Description:
-In this assignment, students will:
+### Description:
 
 - Theme: Create an animation with a theme of "TIME".
 - Animation Dimensions: The final animation should be exactly 600 x 600 pixels.
