@@ -13,8 +13,8 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.geom.Point2D;
 
-//63050147 Tharita Watanapa sec1
-//63050166 Pilada Prasan sec2
+//Tharita Watanapa 
+//Pilada Prasan 
 
 public class Assignment2_63050147_63050166 {
 
