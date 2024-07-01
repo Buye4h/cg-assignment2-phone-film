@@ -24,4 +24,5 @@ Tools: Use the Java 2D API exclusively to draw and animate the elements.
 
 ## Reference
 (Used for educational purposes only)
+
 -Image & Animation: [Hi-Ku on Fur Affinity](https://www.furaffinity.net/view/42654462/)
