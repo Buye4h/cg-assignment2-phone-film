@@ -16,7 +16,7 @@ import java.awt.geom.Point2D;
 //Tharita Watanapa 
 //Pilada Prasan 
 
-public class Assignment2_63050147_63050166 {
+public class Assignment2 {
 
     static class GraphicsSwing extends JPanel implements Runnable {
 
