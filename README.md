@@ -1,15 +1,15 @@
 # CG Assignment 2 : circles and ellipses
 
-Objective:
+- Objective:
 The objective of this assignment is to introduce students to the fundamentals of animation using the Java 2D API. Students will work in pairs to create an animation that incorporates circles and ellipses.
 
-Description:
+- Description:
 In this assignment, students will:
 
-Theme: Create an animation with a theme of "TIME".
-Animation Dimensions: The final animation should be exactly 600 x 600 pixels.
-Graphics Elements: Utilize circles and ellipses to compose the animation.
-Tools: Use the Java 2D API exclusively to draw and animate the elements.
+- Theme: Create an animation with a theme of "TIME".
+- Animation Dimensions: The final animation should be exactly 600 x 600 pixels.
+- Graphics Elements: Utilize circles and ellipses to compose the animation.
+- Tools: Use the Java 2D API exclusively to draw and animate the elements.
 
 ## Result
 
