@@ -1,6 +1,4 @@
 # CG Assignment 2 : circles and ellipses
-Course: 05506014 Computer Graphics
-Institution: King Mongkut's Institute of Technology Ladkrabang (KMITL)
 
 Objective:
 The objective of this assignment is to introduce students to the fundamentals of animation using the Java 2D API. Students will work in pairs to create an animation that incorporates circles and ellipses.
